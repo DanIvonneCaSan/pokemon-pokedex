@@ -1,0 +1,17 @@
+body{
+  background-image: url("../assets/images/pokemon.jpg");
+  background-size: contain;
+}
+
+#navImg {
+  width: 20%;
+  height: 10vh;
+}
+
+.navbar{
+  background-color: black;
+}
+
+form {
+  padding-left: 30%;
+}
